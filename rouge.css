@@ -1,0 +1,10 @@
+body
+{
+	background:#F00;
+	text-align:center;
+}
+
+a:hover
+{
+	color:#00F;
+}
